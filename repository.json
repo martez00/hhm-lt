@@ -1,0 +1,11 @@
+{
+  "name": "martez00/hhm-lt",
+  "description": "Plugins that work great with haxroomie and more.",
+  "author": "martez00",
+  "config": {
+    "path": "src"
+  },
+  "plugins": [
+    "main",
+  ]
+}
